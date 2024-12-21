@@ -40,7 +40,9 @@ As capacidades do Azure Cognitive Search podem ser aplicadas em diversos context
 1. Criar um serviço Azure AI Search
 2. Criar um recurso Azure AI Service
 3. Criar uma conta de armazenamento: Storage Account
-4. 
+4. Fazer o upload dos arquivos a serem analisados para o storage
+5. Conectar o storage account ao serviço AI Search
+6. Em Search Explorer, fazer as pesquisas desejadas para obter os resultados
 
 
 ## Conclusão
